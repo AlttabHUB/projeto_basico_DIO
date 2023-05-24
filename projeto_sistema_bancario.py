@@ -2,7 +2,7 @@ from datetime import datetime
 
 # função para exibir o menu: apenas por organização visual
 def menu() -> None:
-    print('''===BEM VINDO AO BANCO NEXT===
+    print('''===BEM VINDO AO BANCO GEEK===
 Escolha alguma das opções abaixo:
 [S] Sacar
 [D] Depositar
